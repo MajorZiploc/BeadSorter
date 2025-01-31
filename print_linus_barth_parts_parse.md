@@ -15,11 +15,22 @@ plate 2
 1 4-dispatcher-tube-alignment.stl
 1 1-sequentializer-ilc-top.stl
 
+plate 3
 1 3-analyzer-base.stl
 1 3-analyzer-ilc-bottom.stl
+
+plate 4
 1 3-analyzer-ilc-top.stl
 1 3-analyzer-top-alignment.stl
+
+plate 5
 1 4-dispatcher-ilc-bottom.stl
-1 4-dispatcher-ilc-corner.stl
+3 4-dispatcher-ilc-corner.stl
+3 3-analyzer-ilc-corner.stl
+
+plate 6
+3 5-outputs-ilc-corner.stl
 1 4-dispatcher-ilc-top.stl
+
+plate 7
 1 5-outputs-ilc-top.stl
